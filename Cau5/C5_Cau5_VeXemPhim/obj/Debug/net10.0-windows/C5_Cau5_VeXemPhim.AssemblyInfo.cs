@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C5_Cau5_VeXemPhim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e17bfdbf60249abb8ce31d8cd3e14838aef3a37f")]
 [assembly: System.Reflection.AssemblyProductAttribute("C5_Cau5_VeXemPhim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C5_Cau5_VeXemPhim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

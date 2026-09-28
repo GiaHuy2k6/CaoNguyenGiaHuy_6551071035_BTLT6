@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\LT\\C#\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec.csproj": {}
+    "D:\\BTLT\\BTLT6\\CaoNguyenGiaHuy_6551071035_BTLT6\\Cau6\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\LT\\C#\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec.csproj": {
+    "D:\\BTLT\\BTLT6\\CaoNguyenGiaHuy_6551071035_BTLT6\\Cau6\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\LT\\C#\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec.csproj",
+        "projectUniqueName": "D:\\BTLT\\BTLT6\\CaoNguyenGiaHuy_6551071035_BTLT6\\Cau6\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec.csproj",
         "projectName": "C5_Cau6_GhiChuCongViec",
-        "projectPath": "C:\\Users\\Admin\\LT\\C#\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\LT\\C#\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec\\obj\\",
+        "projectPath": "D:\\BTLT\\BTLT6\\CaoNguyenGiaHuy_6551071035_BTLT6\\Cau6\\C5_Cau6_GhiChuCongViec\\C5_Cau6_GhiChuCongViec.csproj",
+        "packagesPath": "C:\\Users\\huysa\\.nuget\\packages\\",
+        "outputPath": "D:\\BTLT\\BTLT6\\CaoNguyenGiaHuy_6551071035_BTLT6\\Cau6\\C5_Cau6_GhiChuCongViec\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\huysa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
